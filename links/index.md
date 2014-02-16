@@ -3,15 +3,36 @@ layout: default
 ---
 
 #### Jekyll
-+ <a href="http://jekyllrb.com/">Jekyll</a>
-+ <a href="http://www.madhur.co.in/blog/2011/09/01/runningjekyllwindows.html" target="_new">Installing Jekyll on Windows</a>
++ [Jekyll](http://jekyllrb.com/)
++ [Jekyll on Windows](http://www.madhur.co.in/blog/2011/09/01/runningjekyllwindows.html)
 
 #### Ruby / Ruby on Rails
-+ <a href="http://betterspecs.org" target="_new">Better specs { rspec guidelines with ruby }</a>
-+ <a href="http://ruby.railstutorial.org/ruby-on-rails-tutorial-book">RoR Tutorial</a>
++ [Better specs { rspec guidelines with ruby }](http://betterspecs.org)
++ [RoR Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
++ [Deployment](http://capistranorb.com/documentation/getting-started/preparing-your-application/)
 
 #### Administration
-+ <a href="http://www.sequelpro.com/">Sequel Pro</a>
-+ <a href="http://bliker.github.io/cmder/">Cmder</a>
-+ <a href="http://net.tutsplus.com/tutorials/tools-and-tips/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles">OSX Dev Machine setup</a>
-+ <a href="https://github.com/tomislav/osx-terminal.app-colors-solarized">Solarized theme for Terminal.App</a>
++ [Sequel Pro](http://www.sequelpro.com/)
++ [Cmder](http://bliker.github.io/cmder/)
++ [Dotfiles](http://dotfiles.github.io)
++ [Dotfiles for OSX](http://net.tutsplus.com/tutorials/tools-and-tips/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles)
++ [Solarized theme for Terminal.App](https://github.com/tomislav/osx-terminal.app-colors-solarized)
+
+#### Bootstrap related stuff
++ [Plugins](http://tutorialzine.com/2013/07/50-must-have-plugins-for-extending-twitter-bootstrap/)
++ [Snippets](http://bootsnipp.com/)
+
+#### C# (Development | Testing)
++ [Moq](https://github.com/Moq/moq4)
++ [ReSharper](http://www.jetbrains.com/resharper/)
++ [ReSpeller](http://etherealcode.com/respeller/index.html)
++ [Smtp4Dev](https://smtp4dev.codeplex.com/)
+
+#### JavaScript (jQuery | Plugins)
++ [jQuery](http://jquery.com)
++ [Datatables](http://datatables.net/)
++ [jsfiddle](http://jsfiddle.net)
++ [DateTime manipulation and validation](http://momentjs.com/)
+
+#### User tracking
++ [Piwik](http://piwik.org/)
