@@ -2,37 +2,23 @@
 layout: default
 ---
 
-#### Jekyll
-+ [Jekyll](http://jekyllrb.com/)
-+ [Jekyll on Windows](http://www.madhur.co.in/blog/2011/09/01/runningjekyllwindows.html)
+<ul class="nav nav-tabs">
+  <li class="active"><a href="#programming" data-toggle="tab">Programming</a></li>
+  <li><a href="#tv-shows" data-toggle="tab">TV Shows</a></li>
+  <li><a href="#diving" data-toggle="tab">Diving</a></li>
+</ul>
 
-#### Ruby / Ruby on Rails
-+ [Better specs { rspec guidelines with ruby }](http://betterspecs.org)
-+ [RoR Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
-+ [Deployment](http://capistranorb.com/documentation/getting-started/preparing-your-application/)
+<div class="tab-content">
+  <div class="tab-pane active" id="programming">
+      {% include programming_links.html %}
+  </div>
 
-#### Administration
-+ [Sequel Pro](http://www.sequelpro.com/)
-+ [Cmder](http://bliker.github.io/cmder/)
-+ [Dotfiles](http://dotfiles.github.io)
-+ [Dotfiles for OSX](http://net.tutsplus.com/tutorials/tools-and-tips/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles)
-+ [Solarized theme for Terminal.App](https://github.com/tomislav/osx-terminal.app-colors-solarized)
+  <div class="tab-pane" id="tv-shows">
+    {% include tv_show_links.html %}
+  </div>
 
-#### Bootstrap related stuff
-+ [Plugins](http://tutorialzine.com/2013/07/50-must-have-plugins-for-extending-twitter-bootstrap/)
-+ [Snippets](http://bootsnipp.com/)
+  <div class="tab-pane" id="diving">
+    {% include diving_links.html %}
+  </div>
 
-#### C# (Development | Testing)
-+ [Moq](https://github.com/Moq/moq4)
-+ [ReSharper](http://www.jetbrains.com/resharper/)
-+ [ReSpeller](http://etherealcode.com/respeller/index.html)
-+ [Smtp4Dev](https://smtp4dev.codeplex.com/)
-
-#### JavaScript (jQuery | Plugins)
-+ [jQuery](http://jquery.com)
-+ [Datatables](http://datatables.net/)
-+ [jsfiddle](http://jsfiddle.net)
-+ [DateTime manipulation and validation](http://momentjs.com/)
-
-#### User tracking
-+ [Piwik](http://piwik.org/)
+</div>
